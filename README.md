@@ -17,6 +17,9 @@ Install dependencies
 npm install
 ```
 
+Add openai api key to .env file
+- create .env file with OPEN_API_KEY = {your api key}
+
 ## How to Develop (with Hot Reloading)
 
 ```bash
