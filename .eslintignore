@@ -1,0 +1,11 @@
+build/*
+public/*
+node_modules/*
+*/*.test.js
+react-app-env.d.ts
+*.lock
+*.json
+*.css
+*.scss
+**/out/*
+__generated__
